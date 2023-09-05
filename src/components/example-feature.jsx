@@ -3,7 +3,7 @@ function formatName(user) {
   }
 
   const user = {
-    firstName: 'Zi Qing',
+    firstName: 'Zi Qin',
     lastName: 'Thng'
   };
 
