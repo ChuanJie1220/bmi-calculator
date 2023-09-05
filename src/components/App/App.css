@@ -45,8 +45,7 @@ label {
 }
 
 .calculate-btn:focus:hover {
-  color: grey;
-  border: 1px solid;
+  color: white;
 }
 
 .calculate-btn:disabled {
