@@ -1,14 +1,14 @@
 function formatName(user) {
-    return user.lastName + ' ' + user.firstName;
-  }
+  return user.lastName + ' ' + user.firstName;
+}
 
-  const user = {
-    firstName: 'Zi Qin',
-    lastName: 'Thng'
-  };
+const user = {
+  firstName: 'Zi Qin',
+  lastName: 'Thng'
+};
 
-  const element = (
+const element = (
 <h1>
-      Hello, {formatName(user)}!
+    Hello, {formatName(user)}!
 </h1>
-  );
+);
